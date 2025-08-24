@@ -9,5 +9,5 @@
 
 3.  ▶️ Run the Script:
   
-        bash
-         python house_price_prediction.py
+    ```bash
+    python house_price_prediction.py
